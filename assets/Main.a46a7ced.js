@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as _}from"./index.75e46ba4.js";const t={},s={class:"page page-creative-studio"};function a(o,d){return c(),_("div",s)}const r=e(t,[["render",a],["__scopeId","data-v-0ddd7cc4"]]);export{r as default};
