@@ -1,6 +1,6 @@
 SmoothScroll({
     animationTime    : 600,
-    stepSize         : 75/5,
+    stepSize         : 75/3,
     accelerationDelta : 20,  
     accelerationMax   : 2,   
     keyboardSupport   : true,  
