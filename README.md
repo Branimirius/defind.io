@@ -1,1 +1,1 @@
-# earn-games
+# defind.io
